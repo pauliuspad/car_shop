@@ -36,7 +36,6 @@ if ($result->num_rows > 0) {
     echo "<h3>There are no cars found in database.</h3>";
   }
 
-
 include "connection/close_connection.php";
  
 ?>
